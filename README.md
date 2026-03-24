@@ -28,30 +28,6 @@ random_forest.py
 This is more accurate.
 It uses many trees and gives better result.
 
-main.py
-This runs all models together.
-
-How to run
-
-Step 1
-Install needed libraries
-pip install pandas numpy scikit-learn matplotlib
-
-Step 2
-Run any file
-Example
-python linear_regression.py
-
-You can run each file one by one.
-
-Output
-
-You will see values like
-MSE for regression
-Accuracy for classification
-
-Random forest usually gives better accuracy.
-
 Why this project
 
 Indoor air pollution is a real problem.
@@ -61,6 +37,4 @@ It can be used with sensors in future.
 Future idea
 
 Connect with Arduino and gas sensor
-Show result in LCD display
-
-Done 👍
+Show result in LCD display.
